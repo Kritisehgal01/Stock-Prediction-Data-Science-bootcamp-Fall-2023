@@ -1,2 +1,3 @@
 # Stock-Prediction-by-Guess-Timate-Gang
-Project for 2023 Fall Data Science boot camp at the Erdos institute. 
+  by Hitesh Gakhar, Michail Paparizos, Kriti Sehgal, Limin Wang
+Project for 2023 Fall Data Science boot camp at the Erdos Institute. 
